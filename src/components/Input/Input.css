@@ -1,0 +1,16 @@
+input{
+    outline: none;
+    border: none;
+    border-bottom: 1px solid rgb(140, 140, 228);
+    margin-bottom: 30px;
+    padding: 10px 5px;
+    transition:  0.8s ease;
+    color: #414040;
+    box-sizing: border-box;
+
+}
+input:hover{
+    border: none;
+    border-radius: 10px;
+    outline: 1px solid rgb(140, 140, 228);
+}
